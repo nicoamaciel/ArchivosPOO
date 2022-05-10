@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1652185802 source:c:\users\usuario1\desktop\nicolas\proyectos\pruebaprac\pruebaprac\dos.cpp
+
+1652211974 source:c:\users\usuario1\desktop\nicolas\proyectos\pruebaprac\pruebaprac\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"clase.h"
+
+1652212184 c:\users\usuario1\desktop\nicolas\proyectos\pruebaprac\pruebaprac\clase.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+
