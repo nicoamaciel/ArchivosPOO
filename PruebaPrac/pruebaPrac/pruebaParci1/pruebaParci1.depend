@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1652233205 source:c:\users\user\desktop\utn\4-tsp cuarto cuatrimestre\lab 2\ejercicios\integrador\pruebaparci1\main.cpp
+	<iostream>
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"clase.h"
+
+1652237654 c:\users\user\desktop\utn\4-tsp cuarto cuatrimestre\lab 2\ejercicios\integrador\pruebaparci1\clase.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+
