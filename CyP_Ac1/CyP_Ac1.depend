@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1653262062 source:c:\users\user\desktop\utn\4-tsp cuarto cuatrimestre\lab 2\act2\act1\cyp_ac1\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"cyp.h"
+
+1653153642 c:\users\user\desktop\utn\4-tsp cuarto cuatrimestre\lab 2\act2\act1\cyp_ac1\cyp.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+
