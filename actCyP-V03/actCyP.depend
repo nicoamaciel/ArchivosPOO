@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1653316984 source:c:\users\usuario1\desktop\nicolas\ausent\actcyp\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"actCyP.h"
+
+1653314010 c:\users\usuario1\desktop\nicolas\ausent\actcyp\actcyp.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+
