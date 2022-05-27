@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1653592622 source:c:\users\usuario1\desktop\arch\arch\funciones.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"claseExamen.h"
+
+1653596854 c:\users\usuario1\desktop\arch\arch\claseexamen.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"claseFecha.h"
+
+1653596427 source:c:\users\usuario1\desktop\arch\arch\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"claseExamen.h"
+
+1653592153 c:\users\usuario1\desktop\arch\arch\clasefecha.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+
+1653673665 source:c:\users\usuario1\desktop\archexamen\arch\funciones.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"claseExamen.h"
+
+1653672651 c:\users\usuario1\desktop\archexamen\arch\claseexamen.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+
+1653672632 c:\users\usuario1\desktop\archexamen\arch\clasefecha.h
+
+1653674513 source:c:\users\usuario1\desktop\archexamen\arch\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+
